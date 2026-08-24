@@ -1,0 +1,5 @@
+out/
+data/*.log
+docs/
+frontend/
+.git/
